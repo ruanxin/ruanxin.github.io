@@ -15,6 +15,8 @@
        <string>1.0</string>
        <key>URL</key>
        <string>http://ruanxin.github.io/extensionupdate/drago/v1.0/drago.safariextz</string>
+       <key>Update From Gallery</key>
+       <true/>
      </dict>
    </array>
 </dict>
