@@ -10,11 +10,11 @@
        <key>Developer Identifier</key>
        <string>XVB2MREWC2</string>
        <key>CFBundleVersion</key>
-       <string>20160218</string>
+       <string>1</string>
        <key>CFBundleShortVersionString</key>
-       <string>1.1</string>
+       <string>1.0</string>
        <key>URL</key>
-       <string>http://ruanxin.github.io/extensionupdate/drago/v1.1/drago.safariextz</string>
+       <string>http://ruanxin.github.io/extensionupdate/drago/v1.0/drago.safariextz</string>
        <key>Update From Gallery</key>
        <true/>
      </dict>
