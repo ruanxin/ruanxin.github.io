@@ -14,7 +14,7 @@
        <key>CFBundleShortVersionString</key>
        <string>1.2</string>
        <key>URL</key>
-       <string>http://ruanxin.github.io/extensionupdate/drago/v1.1/drago.safariextz</string>
+       <string>http://ruanxin.github.io/extensionupdate/drago/latest/drago.safariextz</string>
        <key>Update From Gallery</key>
        <true/>
      </dict>
